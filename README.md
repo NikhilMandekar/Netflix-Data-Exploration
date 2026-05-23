@@ -44,7 +44,7 @@ Netflix has over 10,000 titles and 222M+ subscribers globally (as of mid-2021). 
 
 ---
 
-## 💡 Key Business Recommendations
+##  Key Business Recommendations
 
 1. **Invest in Indian and UK original content**  -both markets show strong consumption but are underrepresented in original productions
 2. **Expand family and children's content** - current ratings distribution reveals a clear gap; capturing this segment diversifies the subscriber base
